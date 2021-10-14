@@ -1,5 +1,5 @@
 # Clustering the countries for Help International
-Clustering the countries for Help International using K-Means Method with Python.
+Clustering the countries for Help International using K-Means Method in Python.
 
 1. Business Understanding:
   - Background and Problems
