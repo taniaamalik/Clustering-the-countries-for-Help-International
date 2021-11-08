@@ -16,6 +16,6 @@ Clustering the countries for Help International using K-Means Method in Python.
   - Modeling
   - Visualization (result of model)
 4. Evaluation
-  - Evaluation using Confusion Matrix (precision, recall, f-measure, accuracy)
+  - Evaluation using Silhouette Score
   - Analysis the result
 5. Conclusions and Suggestions
